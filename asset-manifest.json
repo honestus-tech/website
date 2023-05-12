@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/honestus/static/css/main.c8543139.css",
-    "main.js": "/honestus/static/js/main.7a18f914.js",
+    "main.css": "/honestus/static/css/main.b6efb2ad.css",
+    "main.js": "/honestus/static/js/main.c3bdf313.js",
     "index.html": "/honestus/index.html",
-    "main.c8543139.css.map": "/honestus/static/css/main.c8543139.css.map",
-    "main.7a18f914.js.map": "/honestus/static/js/main.7a18f914.js.map"
+    "main.b6efb2ad.css.map": "/honestus/static/css/main.b6efb2ad.css.map",
+    "main.c3bdf313.js.map": "/honestus/static/js/main.c3bdf313.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8543139.css",
-    "static/js/main.7a18f914.js"
+    "static/css/main.b6efb2ad.css",
+    "static/js/main.c3bdf313.js"
   ]
 }
