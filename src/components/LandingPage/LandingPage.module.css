@@ -226,7 +226,7 @@
   width: 458px;
   height: 458px;
   border-radius: 11.909px;
-  background-image:/* webpackIgnore: true */ url('assets/image24.jpg');
+  background-image:/* webpackIgnore: true */ url('/assets/image24.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -273,7 +273,7 @@
   width: 280px;
   height: 280px;
   border-radius: 11.5862px;
-  background-image:/* webpackIgnore: true */ url('assets/image26.jpg');
+  background-image:/* webpackIgnore: true */ url('/assets/image26.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -320,7 +320,7 @@
   width: 280px;
   height: 280px;
   border-radius: 11.5862px;
-  background-image:/* webpackIgnore: true */ url('assets/image25.jpg');
+  background-image:/* webpackIgnore: true */ url('/assets/image25.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -367,7 +367,7 @@
   width: 280px;
   height: 280px;
   border-radius: 11.5862px;
-  background-image:/* webpackIgnore: true */ url('assets/image27.jpg');
+  background-image:/* webpackIgnore: true */ url('/assets/image27.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -414,7 +414,7 @@
   width: 280px;
   height: 280px;
   border-radius: 11.5862px;
-  background-image:/* webpackIgnore: true */ url('assets/image33.jpg');
+  background-image:/* webpackIgnore: true */ url('/assets/image33.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -484,7 +484,7 @@
   width: 562px;
   height: 562px;
   border-radius: 10.472px;
-  background-image:/* webpackIgnore: true */ url('assets/image28.jpg');
+  background-image:/* webpackIgnore: true */ url('/assets/image28.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -936,7 +936,7 @@
   width: 584px;
   height: 584px;
   border-radius: 10.882px;
-  background-image:/* webpackIgnore: true */ url('assets/image282.jpg');
+  background-image:/* webpackIgnore: true */ url('/assets/image282.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1022,7 +1022,7 @@
   width: 479.8594px;
   height: 319.9688px;
   border-radius: 12px;
-  background-image:/* webpackIgnore: true */ url('assets/image32.jpg');
+  background-image:/* webpackIgnore: true */ url('/assets/image32.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
